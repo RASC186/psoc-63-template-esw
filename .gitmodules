@@ -1,0 +1,19 @@
+[submodule "bsp/TARGET_CY8CPROTO-063-BLE"]
+	path = bsp/TARGET_CY8CPROTO-063-BLE
+	url = https://github.com/Infineon/TARGET_CY8CPROTO-063-BLE.git
+[submodule "libs/cmsis"]
+	path = libs/cmsis
+	url = https://github.com/Infineon/cmsis.git
+  tag = release-v5.8.0
+[submodule "libs/core-lib"]
+	path = libs/core-lib
+  url = https://github.com/Infineon/core-lib.git
+  tag = release-v1.4.2
+[submodule "libs/mtb-hal-cat1"]
+	path = libs/mtb-hal-cat1
+	url = https://github.com/Infineon/mtb-hal-cat1.git
+  tag = release-v2.6.0
+[submodule "libs/mtb-pdl-cat1"]
+	path = libs/mtb-pdl-cat1
+	url = https://github.com/Infineon/mtb-pdl-cat1.git
+  tag = release-v3.10.1
