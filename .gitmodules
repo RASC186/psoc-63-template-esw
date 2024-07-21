@@ -17,3 +17,7 @@
 	path = libs/mtb-pdl-cat1
 	url = https://github.com/Infineon/mtb-pdl-cat1.git
   tag = release-v3.10.1
+[submodule "libs/cat1cm0p"]
+  path = libs/cat1cm0p
+  url = https://github.com/Infineon/cat1cm0p.git
+  tag = release-v1.5.0
